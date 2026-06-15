@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # github https://github.com/100ZZ-Qiy/-100ZZ.git
-# 峰哥的github：100ZZ-Qiy，欢迎点星星！
+# 峰哥的 github：100ZZ-Qiy，欢迎点星星！
 # 使用教程：输入自己要发送的内容和次数，运行程序后切到微信输入框，等待倒计时结束即可自动发送（按 Esc 可随时强制停止）
 """
 微信消息自动发送工具（改进版）
